@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sahithyan04/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sahithyan04/LeetCode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
 | [0724-find-pivot-index](https://github.com/Sahithyan04/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Sahithyan04/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sahithyan04/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Sahithyan04/LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
