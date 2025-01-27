@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sahithyan04/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sahithyan04/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
+| [0162-find-peak-element](https://github.com/Sahithyan04/LeetCode/tree/master/0162-find-peak-element) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sahithyan04/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Sahithyan04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Sahithyan04/LeetCode/tree/master/0724-find-pivot-index) |
@@ -64,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sahithyan04/LeetCode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Sahithyan04/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
