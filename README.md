@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
 | [2383-add-two-integers](https://github.com/Sahithyan04/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Sahithyan04/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Matrix
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sahithyan04/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Sahithyan04/LeetCode/tree/master/0162-find-peak-element) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Sahithyan04/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
