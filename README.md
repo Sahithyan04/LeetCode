@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Sahithyan04/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Sahithyan04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Sahithyan04/LeetCode/tree/master/0724-find-pivot-index) |
+| [0907-koko-eating-bananas](https://github.com/Sahithyan04/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahithyan04/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Sahithyan04/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sahithyan04/LeetCode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Sahithyan04/LeetCode/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/Sahithyan04/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sahithyan04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
