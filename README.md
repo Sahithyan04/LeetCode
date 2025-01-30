@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sahithyan04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahithyan04/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sahithyan04/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/Sahithyan04/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sahithyan04/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahithyan04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahithyan04/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sahithyan04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sahithyan04/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sahithyan04/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/Sahithyan04/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sahithyan04/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahithyan04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sahithyan04/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
