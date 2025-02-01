@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sahithyan04/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sahithyan04/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sahithyan04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sahithyan04/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sahithyan04/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahithyan04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sahithyan04/LeetCode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sahithyan04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Sahithyan04/LeetCode/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/Sahithyan04/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sahithyan04/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahithyan04/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sahithyan04/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sahithyan04/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahithyan04/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Sahithyan04/LeetCode/tree/master/0735-asteroid-collision) |
