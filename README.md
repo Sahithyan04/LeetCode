@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Sahithyan04/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sahithyan04/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahithyan04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1364-tuple-with-same-product](https://github.com/Sahithyan04/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahithyan04/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sahithyan04/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sahithyan04/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sahithyan04/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sahithyan04/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Sahithyan04/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/Sahithyan04/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahithyan04/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sahithyan04/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -193,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sahithyan04/LeetCode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/Sahithyan04/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sahithyan04/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
