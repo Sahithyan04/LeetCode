@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Sahithyan04/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sahithyan04/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sahithyan04/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Sahithyan04/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sahithyan04/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sahithyan04/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -278,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Sahithyan04/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Sahithyan04/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
