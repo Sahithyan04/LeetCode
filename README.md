@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sahithyan04/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/Sahithyan04/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Sahithyan04/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahithyan04/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sahithyan04/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sahithyan04/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahithyan04/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sahithyan04/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sahithyan04/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sahithyan04/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -276,12 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sahithyan04/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sahithyan04/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Sahithyan04/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sahithyan04/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Sahithyan04/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
