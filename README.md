@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sahithyan04/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahithyan04/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sahithyan04/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sahithyan04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahithyan04/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Sahithyan04/LeetCode/tree/master/3429-special-array-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahithyan04/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sahithyan04/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Sahithyan04/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sahithyan04/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sahithyan04/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sahithyan04/LeetCode/tree/master/1013-fibonacci-number) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sahithyan04/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
