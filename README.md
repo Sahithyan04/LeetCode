@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sahithyan04/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahithyan04/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Sahithyan04/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sahithyan04/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sahithyan04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahithyan04/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Sahithyan04/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahithyan04/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sahithyan04/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/Sahithyan04/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sahithyan04/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/Sahithyan04/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sahithyan04/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Sahithyan04/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Sahithyan04/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sahithyan04/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Sahithyan04/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
