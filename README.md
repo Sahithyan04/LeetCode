@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahithyan04/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sahithyan04/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahithyan04/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sahithyan04/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahithyan04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1364-tuple-with-same-product](https://github.com/Sahithyan04/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sahithyan04/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sahithyan04/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sahithyan04/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sahithyan04/LeetCode/tree/master/0443-string-compression) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sahithyan04/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/Sahithyan04/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahithyan04/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sahithyan04/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahithyan04/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sahithyan04/LeetCode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sahithyan04/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sahithyan04/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sahithyan04/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sahithyan04/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
