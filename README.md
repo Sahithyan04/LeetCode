@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Sahithyan04/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sahithyan04/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Sahithyan04/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2580-circular-sentence](https://github.com/Sahithyan04/LeetCode/tree/master/2580-circular-sentence) |
 | [3447-clear-digits](https://github.com/Sahithyan04/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
