@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sahithyan04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sahithyan04/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahithyan04/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sahithyan04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sahithyan04/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Sahithyan04/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sahithyan04/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahithyan04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Sahithyan04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Sahithyan04/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sahithyan04/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sahithyan04/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sahithyan04/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahithyan04/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Sahithyan04/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahithyan04/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sahithyan04/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
